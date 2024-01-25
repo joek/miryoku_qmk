@@ -8,5 +8,5 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["crkbd"]'
+      keyboard: '["splitkb/aurora/corne/rev1"]'
       clipboard: '["Mac"]'
